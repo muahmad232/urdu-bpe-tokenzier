@@ -1,0 +1,7 @@
+regex
+numpy
+tqdm
+requests
+beautifulsoup4
+tiktoken
+tokenizers

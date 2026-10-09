@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Corpus & Binary Data (Large files)
+corpus/raw/
+corpus/cleaned/
+corpus/*.txt
+data/*.bin
+*.bin
+
+# Downloads & compressed archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.xz
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+Assignment 1 - Urdu BPE Tokenizer from Scratch.pdf
+
